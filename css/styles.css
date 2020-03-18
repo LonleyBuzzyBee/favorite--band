@@ -3,18 +3,21 @@
   background-color: lavender;
   width: 20%;
   float: left;
-  height: auto;
-  
+  height: 100px;
+  padding-bottom: 10%;
 }
 .column2{
   background-color: lightblue;
-  width: 70%;
+  width: 80%;
   float: left;
-  height: auto;
+  height: 100px;
+  padding-bottom: 10%;
 }
 .sidebar{
   background-color: lightgreen;
-  width: 10%;
-  float: right;
+  float: left;
   height: auto;
+  width: 100%;
+  padding-right: 10px;
+  padding-bottom: 40px;
 }
