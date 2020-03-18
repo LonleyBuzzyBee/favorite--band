@@ -1,3 +1,13 @@
+
+.column1{
+  width: 20%;
+  float: left;
+}
+.column2{
+  width: 70%;
+  float: left;
+}
 .sidebar{
+  width: 10%;
   float: right;
 }
