@@ -1,13 +1,20 @@
 
 .column1{
+  background-color: lavender;
   width: 20%;
   float: left;
+  height: auto;
+  
 }
 .column2{
+  background-color: lightblue;
   width: 70%;
   float: left;
+  height: auto;
 }
 .sidebar{
+  background-color: lightgreen;
   width: 10%;
   float: right;
+  height: auto;
 }
